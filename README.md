@@ -1,12 +1,12 @@
 # Portfolio
 
-This page is divided into [projects](#Projects) and [technologies](#Technologies)
+This page is divided into [projects](#Projects) and [technologies](#Technologies).
 
 ## Projects
 
 * [SurveyQuiz](#SurveyQuiz)
 * TD2
-* Skovskolen
+* [Skovskolen](#Skovskolen)
 * Prescriba
 * Learning repo
 * R Shiny for MB
