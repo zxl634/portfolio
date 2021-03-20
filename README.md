@@ -1,5 +1,7 @@
 # Portfolio
 
+This page is divided into [projects](#Projects) and [technologies](#Technologies)
+
 ## Projects
 
 * [SurveyQuiz](#SurveyQuiz)
