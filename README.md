@@ -2,7 +2,7 @@
 
 ## Projects
 
-* [SurveyQuiz](# SurveyQuiz)
+* [SurveyQuiz](#SurveyQuiz)
 * TD2
 * Skovskolen
 * Prescriba
